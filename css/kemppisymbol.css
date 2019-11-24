@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Kemppisymbol;
+    src: url(../fonts/kemppi/otf/KEMPPISymbol.otf);
+}
+
+span.ksymbol, span.ksymbol.bigsymbol{
+  font-family: Kemppisymbol;
+  color: #f47200;
+}
+
+span.ksymbol.bigsymbol{
+  font-size: 2em;
+}

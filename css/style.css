@@ -1,0 +1,53 @@
+ul.panel-list{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+img.logo{
+  height: 100%;
+  width: auto;
+}
+
+span.glyphatt{
+  color: rgb(255, 212, 0);
+}
+
+span.glypherr{
+  color: rgb(222, 58, 0);
+}
+
+span.glyphok{
+  color: rgb(63, 153, 58);
+}
+
+div.side-nav{
+  max-height: 640px;
+  overflow: auto;
+}
+
+div.jumbotron{
+  position: relative;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../img/promo-3.jpg);
+  background-size: cover cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+div.jumbo-panel{
+  background-color: transparent;
+  border: 0px;
+  box-shadow: none;
+  margin-bottom: 0px;
+}
+
+div.jumbo-panel div.panel-body{
+  text-align: center;
+}
+
+div.jumbo-panel span.ksymbol{
+  font-size: 6em;
+}
+
+div.jumbo-panel h3{
+  font-size: 4em;
+}
